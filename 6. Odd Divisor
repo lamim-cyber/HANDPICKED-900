@@ -1,0 +1,32 @@
+int main()
+{
+    test
+    {
+        ll n;
+        cin>> n;
+        if(n==2)
+        {
+            no
+            continue;
+        }
+    bool flag=0;
+        while(n>2)
+        {
+            if(n%2==1)
+                {
+ 
+                    flag =1;break;
+                }
+ 
+            else
+            {
+                n/=2;
+            }
+        }
+ 
+        if(flag)
+            yes
+        else
+        no
+    }
+}

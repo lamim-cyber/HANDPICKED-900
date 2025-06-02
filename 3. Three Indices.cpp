@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
 int main()
 {
     test
@@ -49,7 +52,6 @@ int main()
          }
          else
          no
- 
- 
+
     }
 }
